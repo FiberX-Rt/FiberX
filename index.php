@@ -1,2 +1,2 @@
 <?php
-twig trop bi1
+echo "test";
